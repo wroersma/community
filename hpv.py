@@ -17,7 +17,7 @@
 # along with Volatility.  If not, see <http://www.gnu.org/licenses/>.
 #
 """
-@author:       Wyatt Roersma (Fannie Mae)
+@author:       Wyatt Roersma (Target)
 @codehelper:   Daniel Deneweth (Student)
 @license:      GNU General Public License 2.0 or later
 @contact:      wyattroersam@gmail.com	
